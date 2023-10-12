@@ -1,12 +1,4 @@
 import re
-
-#Email verification
-mail=input("Enter your mail-id: ")
-pattern="[a-z][a-z0-9]\w*@[gmail|^yh]+\.[com|in|org]+"
-if re.findall(pattern,mail)==[]:
-    print("Invalid email")
-else:
-    print("Email",mail,"is valid")
     
 #1.Phone number verification
 phno=input("Enter your phone number: ")
