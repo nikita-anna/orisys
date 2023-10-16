@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(15, 204, 204);
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+    
+
+table, th, td {
+    border: 3px solid rgb(15, 204, 204);
+    border-collapse: collapse;
+    
+    text-align: center;
+}
+table{
+    background-color: aquamarine;
+    border-color: aquamarine;
+}
